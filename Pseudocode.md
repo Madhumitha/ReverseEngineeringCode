@@ -21,7 +21,7 @@ Dependencies -
     "passport-local": "^1.0.0",
     "sequelize"
 
-2. The database name is "passport_demo". config.json needs credentials for relevant to your mysql workbench. 
+2. The database name is "passport_demo". config.json needs credentials relevant to your mysql workbench. 
 
 3. Also there is middleware folder that includes isAuthenticated.js, for restricting routes a user is not allowed to visit if not logged in
 
